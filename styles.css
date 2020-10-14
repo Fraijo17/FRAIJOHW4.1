@@ -1,0 +1,26 @@
+.time-Remaining {
+    color: aqua;
+}
+
+.instructions {
+    text-align: center;
+
+}
+
+.marquee {
+
+    will-change: transform;
+    animation: marquee 15s linear infinite;
+}
+
+.final-score {
+    text-align: center;
+}
+
+#highscore-button {
+    color: rgb(243, 199, 6);
+}
+
+.time-remaining {
+    color: rgb(219, 141, 141);
+}
